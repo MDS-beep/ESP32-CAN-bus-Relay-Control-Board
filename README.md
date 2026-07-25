@@ -131,3 +131,7 @@ Price in Euro including shipping and taxes. Screenshots are included in this rep
 | Aliexpress | 37.53 |
 | | |
 | Total | 162.16 |
+
+
+
+ https://oshwlab.com/mathias_/victron-can-bus-esp
