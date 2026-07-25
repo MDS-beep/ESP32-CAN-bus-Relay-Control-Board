@@ -134,4 +134,4 @@ Price in Euro including shipping and taxes. Screenshots are included in this rep
 
 
 
- https://oshwlab.com/mathias_/victron-can-bus-esp
+ https://oshwlab.com/mathias_/victron-can-bus-esp   (if not working, check easyeda files)
