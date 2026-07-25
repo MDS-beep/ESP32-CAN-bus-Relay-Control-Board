@@ -20,6 +20,8 @@ The board is powered using a stable power supply, with onboard voltage regulatio
 
 !!!! When using the relays to switch live voltages, please be carefull !!!!
 
+Flash the firmware to the esp32 using arduino ide or an online tool.
+
 ---
 
 ## Why This Project Was Made
